@@ -1,0 +1,10 @@
+-> Você configura as rotas no código.
+-> File-based routing
+
+/index
+/about
+
+
+/auth/login
+/auth/signup
+/auth/forgot
